@@ -9,11 +9,6 @@ This project analyzes the Google Play Store dataset to uncover trends in app rat
 ✔ Data Visualizations with Seaborn & Matplotlib  
 ✔ Business Insights  
 
-## Files
-- **`Google_Play_Store_Analysis.ipynb`** → Jupyter Notebook containing the full analysis.
-- **`googleplaystore.csv`** → Dataset (or Kaggle link).
-- **`README.md`** → Overview of the project.
-
 ## Results
 - Most apps have **ratings between 4.0 and 4.5**.
 - **Games, Business, and Productivity** apps are the most popular.
